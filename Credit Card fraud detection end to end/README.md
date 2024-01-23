@@ -11,13 +11,13 @@ overview :-
 
 3)Libraries :- numpy, pandas, Matplotlib.pyplot,Seaborn
 
-4)Algorithm :- 
+4)Algorithm :- Logistic Regression 
 
 Steps performed:-
 
 Data preposessing
 Fearture Exraction
 Model Training
-Model evalution
+
 
 
